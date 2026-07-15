@@ -16,7 +16,8 @@ svg = """<?xml version="1.0" encoding="UTF-8"?>
 <rect width="100%" height="100%" fill="url(#ocean)"/>
  
 <!-- Lớp sóng xa (chậm, mờ) -->
-<path fill="#1e6091" opacity="0.35">
+<path fill="#1e6091" opacity="0.35"
+  d="M0,190 Q225,170 450,190 T900,190 V220 H0 Z">
   <animate
     attributeName="d"
     dur="6s"
@@ -28,7 +29,8 @@ svg = """<?xml version="1.0" encoding="UTF-8"?>
 </path>
  
 <!-- Lớp sóng gần (nhanh, rõ hơn) -->
-<path fill="#2a9df4" opacity="0.45">
+<path fill="#2a9df4" opacity="0.45"
+  d="M0,200 Q225,185 450,200 T900,200 V220 H0 Z">
   <animate
     attributeName="d"
     dur="4s"
