@@ -41,10 +41,6 @@ svg = """<?xml version="1.0" encoding="UTF-8"?>
       M0,200 Q225,185 450,200 T900,200 V220 H0 Z"/>
 </path>
  
-<text x="40" y="40" fill="white" font-size="26" font-family="Arial">
-GitHub Fish
-</text>
- 
 <!-- Cá -->
 <g>
 <animateTransform
@@ -107,3 +103,4 @@ with open(output_path, "w", encoding="utf-8") as f:
     f.write(svg)
  
 print(f"Đã tạo file: {output_path}")
+ 
