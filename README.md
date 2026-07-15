@@ -65,17 +65,9 @@
 <br>
 
 <div align="center">
-
-<a href="mailto:nguyenthanhtai311007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/thanhtai3110">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="mailto:nguyenthanhtai311007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/thanhtai3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <br><br>
