@@ -22,12 +22,12 @@
 
 # 👨‍💻 About Me
 
-- 🎓 First-year Information Technology Student
-- 💻 Passionate about Backend Development
-- 🚀 Currently learning FastAPI, SQLAlchemy & MySQL
-- 🎯 Goal: Become a Professional Backend Developer
-
----
+| 🏷️ Category | 📌 Information |
+|-------------|----------------|
+| 🎓 Education | Information Technology Student |
+| 💻 Interest | Passionate about Backend Development |
+| 🚀 Learning | Python, FastAPI, SQLAlchemy, MySQL |
+| 🎯 Goal | Become a Professional Backend Developer |
 
 # 🛠 Tech Stack
 
@@ -56,10 +56,7 @@
 <img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-# 🐍 Contribution Snake
-
+-- snake
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg"/>
