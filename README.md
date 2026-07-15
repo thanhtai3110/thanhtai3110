@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
----
+
 
 # 📊 GitHub Stats
 <div align="center">
@@ -29,7 +29,7 @@
   <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 # 📫 Contact
 <div align="center">
 <a href="mailto:nguyenthanhtai311007@gmail.com">
