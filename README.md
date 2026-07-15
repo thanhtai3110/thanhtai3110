@@ -20,7 +20,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -42,66 +42,6 @@
 - 🌐 REST API
 - 🗃️ Database Design
 
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&perline=6"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thanhtai3110&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtai3110&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 💻 Coding Activity
 
 <div align="center">
@@ -121,16 +61,13 @@
 - REST API
 - Git & GitHub
 
----
+# 🐍 Contribution Snake
 
-# 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Technology |
-|----------|-------------|------------|
-| 🎬 Cinema Booking API | Movie ticket booking backend | FastAPI |
-| 📚 Library Management | CRUD Library System | Python |
-| 🚗 Parking Management | Parking Slot API | SQLAlchemy |
-| 🍔 Food Ordering API | RESTful Backend | FastAPI + MySQL |
+<img src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
@@ -147,12 +84,6 @@
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0F2027&height=120&section=footer"/>
 
