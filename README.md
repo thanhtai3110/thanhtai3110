@@ -48,21 +48,11 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:nguyenthanhtai311007@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://github.com/thanhtai3110">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="mailto:nguyenthanhtai311007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/thanhtai3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
 <br><br>
 
