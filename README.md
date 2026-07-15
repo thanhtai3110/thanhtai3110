@@ -19,15 +19,39 @@
 </div>
 
 ---
+<h2 align="center">👨‍💻 About Me</h2>
 
-# 👨‍💻 About Me
+<div align="center">
 
-| 🏷️ Category | 📌 Information |
-|-------------|----------------|
-| 🎓 Education | Information Technology Student |
-| 💻 Interest | Passionate about Backend Development |
-| 🚀 Learning | Python, FastAPI, SQLAlchemy, MySQL |
-| 🎯 Goal | Become a Professional Backend Developer |
+<table>
+<tr>
+<th>🏷️ Category</th>
+<th>📌 Information</th>
+</tr>
+
+<tr>
+<td align="center">🎓 Education</td>
+<td align="center">First-year Information Technology Student</td>
+</tr>
+
+<tr>
+<td align="center">💻 Interest</td>
+<td align="center">Backend Development</td>
+</tr>
+
+<tr>
+<td align="center">🚀 Learning</td>
+<td align="center">Python • FastAPI • SQLAlchemy • MySQL</td>
+</tr>
+
+<tr>
+<td align="center">🎯 Goal</td>
+<td align="center">Become a Professional Backend Developer</td>
+</tr>
+
+</table>
+
+</div>
 
 # 🛠 Tech Stack
 
