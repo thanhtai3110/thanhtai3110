@@ -31,7 +31,7 @@
 
 <tr>
 <td align="center"><b>🎓 Education</b></td>
-<td align="center">First-year Information Technology Student</td>
+<td align="center">Information Technology Student</td>
 </tr>
 
 <tr>
