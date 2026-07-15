@@ -47,7 +47,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <div align="center">
   <picture>
@@ -56,7 +56,7 @@
     <img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📫%20Contact&fontSize=32&fontColor=ffffff"/>
