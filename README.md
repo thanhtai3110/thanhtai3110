@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Fullstack+Developer;Always+Learning+%26+Building">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer;Always+Learning+%26+Building">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -17,20 +17,44 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark">
 </div>
+
+<br>
+
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="220">
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
+</div>
 
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -43,9 +67,17 @@
 <br>
 
 <div align="center">
-  <a href="mailto:nguyenthanhtai311007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/thanhtai3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<a href="mailto:nguyenthanhtai311007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/thanhtai3110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
 
 <br><br>
