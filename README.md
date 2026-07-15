@@ -44,7 +44,6 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
