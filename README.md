@@ -24,15 +24,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
-</div>
 
-<br>
-
-<div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true">
-</div>
-
-<br>
 
 <div align="center">
   <picture>
