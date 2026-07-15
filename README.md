@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
 
 <img width="49%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
 
