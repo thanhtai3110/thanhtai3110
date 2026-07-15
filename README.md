@@ -6,10 +6,10 @@
 
 <br><br>
 
-
 </div>
 
 ---
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-fish.svg"/>
 
 </div>
 
@@ -90,4 +90,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
 
-</div> 
+</div>
