@@ -22,7 +22,7 @@
 </td>
 
 <td width="45%" align="center">
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="220">
+<img src="https://octodex.github.com/images/original.png" width="220">
 
 </td>
 
