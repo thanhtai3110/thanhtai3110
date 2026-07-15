@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling&fontColor=ffffff&text=%20Thanh Tai%20&fontSize=48&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling&fontColor=ffffff&text=%20ThanhTai%20&fontSize=48&fontAlignY=30"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
