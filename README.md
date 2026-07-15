@@ -4,34 +4,6 @@
 <br><br>
 </div>
 
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-<table>
-<tr>
-<th width="180">✨ Category</th>
-<th width="420">📌 Information</th>
-</tr>
-<tr>
-<td align="center"><b>🎓 Education</b></td>
-<td align="center">Information Technology Student</td>
-</tr>
-<tr>
-<td align="center"><b>💻 Interest</b></td>
-<td align="center">Backend Development</td>
-</tr>
-<tr>
-<td align="center"><b>🚀 Learning</b></td>
-<td align="center">Python • FastAPI • SQLAlchemy • MySQL</td>
-</tr>
-<tr>
-<td align="center"><b>🎯 Goal</b></td>
-<td align="center">Become a Professional Backend Developer</td>
-</tr>
-</table>
-</div>
-
 # 🛠 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark"/>
