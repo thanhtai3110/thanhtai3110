@@ -25,27 +25,27 @@
 
 <table>
 <tr>
-<th>🏷️ Category</th>
-<th>📌 Information</th>
+<th width="180">✨ Category</th>
+<th width="420">📌 Information</th>
 </tr>
 
 <tr>
-<td align="center">🎓 Education</td>
+<td align="center"><b>🎓 Education</b></td>
 <td align="center">First-year Information Technology Student</td>
 </tr>
 
 <tr>
-<td align="center">💻 Interest</td>
+<td align="center"><b>💻 Interest</b></td>
 <td align="center">Backend Development</td>
 </tr>
 
 <tr>
-<td align="center">🚀 Learning</td>
+<td align="center"><b>🚀 Learning</b></td>
 <td align="center">Python • FastAPI • SQLAlchemy • MySQL</td>
 </tr>
 
 <tr>
-<td align="center">🎯 Goal</td>
+<td align="center"><b>🎯 Goal</b></td>
 <td align="center">Become a Professional Backend Developer</td>
 </tr>
 
