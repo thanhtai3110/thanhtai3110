@@ -1,76 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2FF&height=180&section=header&text=Nguyen%20Thanh%20Tai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C2FF&height=220&section=header&text=Nguyen%20Thanh%20Tai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Python%20Developer%20|%20IT%20Student&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;First-year+IT+Student;Python+%2B+FastAPI+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;First-year+IT+Student;Backend+Developer;Python+|+FastAPI+|+MySQL;Always+Learning+New+Things..." />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=thanhtai3110&style=for-the-badge&color=0e75b6"/>
+
+<br><br>
+
 <a href="mailto:nguyenthanhtai311007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/thanhtai3110">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
-## About Me
+# 👨‍💻 About Me
 
 ```yaml
-name: "Nguyen Thanh Tai"
-role: "First-year IT Student | Backend Developer"
-learning: ["Python", "FastAPI", "SQLAlchemy", "MySQL"]
-focus: "Building clean, scalable Backend APIs"
-goal: "Become a Professional Backend Developer"
+Name: Nguyen Thanh Tai
+Role: First-year IT Student
+Major: Information Technology
+
+Learning:
+  - Python
+  - FastAPI
+  - SQLAlchemy
+  - MySQL
+
+Interested:
+  - Backend Development
+  - REST API
+  - Database Design
+
+Goal:
+  Become a Professional Backend Developer
 ```
 
-<br>
+---
 
-## Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-## GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+
+# 🏆 GitHub Trophy
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=thanhtai3110&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
 </div>
 
-<br>
+---
 
-## Contact
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtai3110&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtai3110&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Python
+- FastAPI
+- SQLAlchemy
+- MySQL
+- REST API
+- Git & GitHub
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technology |
+|----------|-------------|------------|
+| 🎬 Cinema Booking API | Movie ticket booking backend | FastAPI |
+| 📚 Library Management | CRUD Library System | Python |
+| 🚗 Parking Management | Parking Slot API | SQLAlchemy |
+| 🍔 Food Ordering API | RESTful Backend | FastAPI + MySQL |
+
+---
+
+# 📫 Contact Me
 
 <div align="center">
 
 <a href="mailto:nguyenthanhtai311007@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hi%20via%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thanhtai3110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0F2027&height=90&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0F2027&height=120&section=footer"/>
+
+</div>
