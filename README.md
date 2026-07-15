@@ -1,25 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0B1026,35:2563EB,70:06B6D4,100:7C3AED&animation=twinkling&fontColor=FFFFFF&text=Nguyen%20Thanh%20Tai&fontSize=48&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling&fontColor=ffffff&text=Nguyen%20Thanh%20Tai&fontSize=48&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+there+👋+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
 <br><br>
 
 <a href="mailto:nguyenthanhtai311007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/thanhtai3110">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -54,8 +53,6 @@
 
 </div>
 
----
-
 # 🛠 Tech Stack
 
 <div align="center">
@@ -70,23 +67,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhtai3110&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai3110&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -94,20 +77,18 @@
 
 </div>
 
----
-
 # 📫 Contact
 
 <div align="center">
 
 <a href="mailto:nguyenthanhtai311007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/thanhtai3110">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -116,6 +97,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,35:2563EB,70:06B6D4,100:7C3AED"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
 
-</div>
+</div> 
