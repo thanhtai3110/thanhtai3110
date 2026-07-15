@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🛠%20Tech%20Stack-2196F3?style=for-the-badge&labelColor=0D1117&color=2196F3">
+  <img src="https://img.shields.io/badge/🛠%20Tech%20Stack-0D1117?style=for-the-badge&logoColor=white">
 </div>
 
 <br>
