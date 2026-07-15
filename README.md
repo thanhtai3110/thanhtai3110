@@ -22,8 +22,7 @@
 </td>
 
 <td width="45%" align="center">
-
-<img src="./images/coding.gif" width="280">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="220">
 
 </td>
 
