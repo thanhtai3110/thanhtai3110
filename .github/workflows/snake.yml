@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: thanhtai3110
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
