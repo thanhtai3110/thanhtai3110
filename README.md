@@ -8,62 +8,60 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🛠%20Tech%20Stack&fontSize=32&fontColor=ffffff"/>
-</div>
+---
 
-<br><table>
-<tr>
+## 🛠️ Tech Stack
 
-<td width="65%">
+<img align="right" width="260" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<br>
 
-<p align="center">
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="260"/>
-</p>
+<br><br><br><br><br><br><br><br><br><br>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
-</div>
 
-<br>
+<img width="70%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true">
 
-<div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true">
-</div>
+<br><br>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+
+## 📫 Contact
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📫%20Contact&fontSize=32&fontColor=ffffff"/>
+
+<a href="mailto:nguyenthanhtai311007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/thanhtai3110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:nguyenthanhtai311007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/thanhtai3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=timeGradient">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=timeGradient">
 </div>
