@@ -17,9 +17,6 @@
 <img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-fish.svg"/>
-</div>
 
 <div align="center">
 <picture>
