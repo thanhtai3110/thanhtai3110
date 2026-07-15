@@ -4,6 +4,7 @@
 <br><br>
 </div>
 
+
 # 🛠 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark"/>
@@ -24,7 +25,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg" />
- 
+  <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/thanhtai3110/thanhtai3110/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 # 📫 Contact
