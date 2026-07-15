@@ -22,29 +22,25 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Nguyen Thanh Tai
-Role: First-year IT Student
-Major: Information Technology
+- 👤 **Name:** Nguyen Thanh Tai
+- 🎓 **Role:** First-year IT Student
+- 💻 **Major:** Information Technology
+- 🎯 **Goal:** Become a Professional Backend Developer
 
-Learning:
-  - Python
-  - FastAPI
-  - SQLAlchemy
-  - MySQL
+### 🌱 Currently Learning
 
-Interested:
-  - Backend Development
-  - REST API
-  - Database Design
+- 🐍 Python
+- ⚡ FastAPI
+- 🗄️ SQLAlchemy
+- 🐬 MySQL
 
-Goal:
-  Become a Professional Backend Developer
-```
+### ❤️ Interests
 
----
+- 🚀 Backend Development
+- 🌐 REST API
+- 🗃️ Database Design
 
 # 🚀 Tech Stack
 
