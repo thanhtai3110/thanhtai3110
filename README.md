@@ -8,27 +8,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
-<tr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🛠%20Tech%20Stack&fontSize=32&fontColor=ffffff"/>
+</div>
 
-<td width="55%">
+<br>
 
-# 👋 Hi, I'm Thanh Tai
-
-- 💻 Backend Developer
-- 🌱 Learning FastAPI
-- ⚡ Love Open Source
-
-</td>
-
-<td width="45%" align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark">
+</div>
 <img src="https://github.githubassets.com/images/mona-whisper.gif" width="220">
-
-</td>
-
-</tr>
-</table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
