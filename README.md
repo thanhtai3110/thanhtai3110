@@ -12,13 +12,27 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🛠%20Tech%20Stack&fontSize=32&fontColor=ffffff"/>
 </div>
 
-<br>
+<br><table>
+<tr>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp&theme=dark">
-</div>
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="220">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<td width="65%">
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode,html,css,js,c,cpp" />
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="260"/>
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
