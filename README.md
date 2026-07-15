@@ -1,8 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling&fontColor=ffffff&text=%20ThanhTai%20&fontSize=48&fontAlignY=30"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80"/>
-<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Tran%20Quang%20Long&fontSize=70&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Fullstack+Develop;Turning+Starbucks+into+Code;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 # 🛠 Tech Stack
