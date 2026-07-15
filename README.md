@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-0D1117?style=for-the-badge&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
 </div>
 
 <br>
@@ -43,7 +43,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📫%20Contact-0D1117?style=for-the-badge&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=📫%20Contact&fontSize=32&fontColor=ffffff"/>
 </div>
 
 <br>
