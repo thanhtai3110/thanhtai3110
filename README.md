@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Nguyen%20Thanh%20Tai&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling&fontColor=ffffff&text=Nguyen%20Thanh%20Tai&fontSize=48&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Nguyen+Thanh+Tai;Backend+Developer;Python+Developer;FastAPI+%7C+SQLAlchemy+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
 <br><br>
 
 <a href="mailto:nguyenthanhtai311007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/thanhtai3110">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,20 +22,10 @@
 
 # 👨‍💻 About Me
 
-```text
-🎓 First-year Information Technology Student
-
-💻 Passionate about Backend Development
-
-🚀 Currently Learning
-   • Python
-   • FastAPI
-   • SQLAlchemy
-   • MySQL
-
-🎯 Goal
-   Become a Professional Backend Developer
-```
+- 🎓 First-year Information Technology Student
+- 💻 Passionate about Backend Development
+- 🚀 Currently learning FastAPI, SQLAlchemy & MySQL
+- 🎯 Goal: Become a Professional Backend Developer
 
 ---
 
@@ -62,16 +54,6 @@
 <div align="center">
 
 <img width="65%" src="https://streak-stats.demolab.com?user=thanhtai3110&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtai3110&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -107,8 +89,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
 
 </div>
